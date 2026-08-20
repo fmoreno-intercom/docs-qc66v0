@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://notes-j3ee33.rupiahtoto78zip.site/sitemap.xml
